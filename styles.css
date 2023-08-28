@@ -65,7 +65,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 0 20px;
+    padding: 0 30px;
 }
 
 .navbar a{
@@ -87,7 +87,13 @@ body {
 }
 
 .logo{
-  height: 10%;
-  margin-right: 10px;
+  height: 30px;
   width: auto;
+}
+
+.logo-container{
+  display: flex;
+  justify-content: center;
+  margin-right: 50px;
+  align-items: center;
 }
